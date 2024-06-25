@@ -28,4 +28,3 @@ sample2024j_tex.zipを解凍してください．中には，以下のファイ�
   + upLaTeX, XeLaTeX に対応
   + 書式指定に geometry パッケージを導入
   + twocolumn は .sty ではなく .tex に
-# rsj2024_tex
