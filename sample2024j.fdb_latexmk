@@ -1,10 +1,10 @@
 # Fdb version 4
-["dvipdf"] 1719422873.00744 "sample2024j.dvi" "sample2024j.pdf" "sample2024j" 1719422875.89488 0
-  "sample2024j.dvi" 1719422872.9815 16384 39e9ee01a1219347550696fbe575b3e3 "latex"
+["dvipdf"] 1719466324.56685 "sample2024j.dvi" "sample2024j.pdf" "sample2024j" 1719466327.37536 0
+  "sample2024j.dvi" 1719466324.54068 16308 d6940f970190190f78b0b194b7b24863 "latex"
   (generated)
   "sample2024j.pdf"
   (rewritten before read)
-["latex"] 1719422872.76776 "sample2024j.tex" "sample2024j.dvi" "sample2024j" 1719422875.8939 0
+["latex"] 1719466324.32554 "sample2024j.tex" "sample2024j.dvi" "sample2024j" 1719466327.37439 0
   "/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty" 1644112042 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty" 1572645307 1057 525c2192b5febbd8c1f662c9468335bb ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifxetex.sty" 1572645307 488 4565444a3e75e59cb2702dc42e18f482 ""
@@ -93,8 +93,8 @@
   "figure/straight.eps" 1719405231.53847 3431114 a1d8b69b310d2f41deac26993eee1fbb ""
   "figure/utm-30lx.eps" 1719400791.52752 28469939 1b2936e6027705661c7538905bacb061 ""
   "rsj2024j.sty" 1714813254 10524 8fa9678504a36209edd3cf22636f5cc3 ""
-  "sample2024j.aux" 1719422872.9815 2583 ca13181269657808d908656ac71cd04a "latex"
-  "sample2024j.tex" 1719422872.64949 11626 d1867ae57ff86b78744238bd1eef2a5b ""
+  "sample2024j.aux" 1719466324.53668 2583 ca13181269657808d908656ac71cd04a "latex"
+  "sample2024j.tex" 1719466313.33654 11600 e895225a99e478ceb52b11e648d2ecc8 ""
   (generated)
   "sample2024j.aux"
   "sample2024j.dvi"
